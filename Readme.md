@@ -1,4 +1,7 @@
 # Automatically refresh the primary grid on changing secondary grid's data
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e164)**
+<!-- run online end -->
 
 
 <p>The sample demonstrates two features:<br />
